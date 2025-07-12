@@ -14,6 +14,9 @@ Nosso grupo é o ponto de encontro perfeito para entusiastas e desenvolvedores d
   Todos os códigos desenvolvidos pelo grupo ficam neste repositório open source no GitHub!  
   Isso significa que você pode acessar, usar e contribuir com os projetos existentes. 💻
 
+- **Custom Indicators, Scripts e EAs:**  
+  Este repositório reúne indicadores customizados, scripts e Expert Advisors (EAs) desenvolvidos em MQL4 e MQL5, com foco especial na comunidade de traders do mercado de opções binárias.
+
 - **Lives de Codificação ao Vivo:**  
   Acompanhe sessões de programação em tempo real! Vamos desenvolver indicadores e compartilhar dicas de codificação. 🎥
 
@@ -27,11 +30,26 @@ Nosso grupo é o ponto de encontro perfeito para entusiastas e desenvolvedores d
 
 ## 🤝 Como Contribuir
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua feature ou correção (`git checkout -b minha-feature`).
-3. Faça commit das suas alterações (`git commit -m 'Minha nova feature'`).
-4. Faça push para a branch (`git push origin minha-feature`).
-5. Abra um Pull Request.
+Você pode contribuir de diversas formas:
+
+- **Adicionando Novos Indicadores, Scripts ou EAs:**  
+  1. Faça um fork deste repositório.
+  2. Crie uma branch para sua contribuição (`git checkout -b meu-indicador`).
+  3. Adicione seu arquivo na pasta correspondente (`Indicators`, `Scripts` ou `Experts`), seguindo a estrutura do projeto.
+  4. Documente seu código e adicione comentários explicativos.
+  5. Faça commit das suas alterações (`git commit -m 'Adiciona novo indicador/script/EA'`).
+  6. Faça push para a branch (`git push origin meu-indicador`).
+  7. Abra um Pull Request detalhando sua contribuição.
+
+- **Editando ou Melhorando Indicadores Existentes:**  
+  1. Faça um fork do repositório.
+  2. Crie uma branch para sua alteração (`git checkout -b melhoria-indicador`).
+  3. Edite o arquivo desejado, melhorando lógica, performance, comentários ou documentação.
+  4. Descreva claramente as mudanças no commit e no Pull Request.
+  5. Aguarde a revisão e aprovação da comunidade.
+
+- **Sugestões e Discussões:**  
+  Utilize as Issues do GitHub para sugerir ideias, reportar bugs ou discutir melhorias.
 
 ---
 
@@ -39,6 +57,9 @@ Nosso grupo é o ponto de encontro perfeito para entusiastas e desenvolvedores d
 
 Se você tem paixão por análise de Opções Binárias e quer participar ativamente da criação de ferramentas inovadoras, o **OB Lab** é o seu lugar!  
 Venha fazer parte! 💪
+
+- **Grupo no Telegram:** [t.me/OB_Lab](https://t.me/OB_Lab)
+- **Contato do responsável:** [@BlueXInd](https://t.me/BlueXInd)
 
 ---
 
