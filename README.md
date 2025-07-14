@@ -28,6 +28,26 @@ Nosso grupo é o ponto de encontro perfeito para entusiastas e desenvolvedores d
 
 ---
 
+## 📥 Como Baixar e Instalar Indicadores, Scripts e EAs
+
+1. **Baixe o repositório:**
+   - Clique em "Code" > "Download ZIP" ou use o comando:
+     ```
+     git clone https://github.com/seu-usuario/ob-lab-projects.git
+     ```
+2. **Extraia os arquivos (se baixou o ZIP).**
+3. **Abra o MetaTrader 4 ou MetaTrader 5.**
+4. **No MetaTrader, clique em `Arquivo > Abrir Pasta de Dados`.**
+5. **Navegue até a pasta correspondente:**
+   - Para indicadores: `MQL4/Indicators` ou `MQL5/Indicators`
+   - Para scripts: `MQL4/Scripts` ou `MQL5/Scripts`
+   - Para EAs: `MQL4/Experts` ou `MQL5/Experts`
+6. **Copie os arquivos desejados do repositório para a pasta apropriada.**
+7. **Reinicie o MetaTrader ou clique com o botão direito na janela de Navegador e selecione "Atualizar".**
+8. **Os indicadores, scripts ou EAs estarão disponíveis para uso no MetaTrader.**
+
+---
+
 ## 🤝 Como Contribuir
 
 Você pode contribuir de diversas formas:
